@@ -1,0 +1,3 @@
+[submodule "extras/ColumnFilterWidgets"]
+	path = extras/ColumnFilterWidgets
+	url = https://github.com/cyberhobo/ColumnFilterWidgets
